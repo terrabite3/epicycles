@@ -1,0 +1,8 @@
+https://en.wikipedia.org/wiki/Laurent_series
+http://www.mrob.com/pub/muency/laurentseries.html
+https://mathoverflow.net/questions/48642/parametrization-of-the-boundary-of-the-mandelbrot-set/84769#84769
+https://en.wikibooks.org/wiki/Fractals/Iterations_in_the_complex_plane/Mandelbrot_set/boundary
+http://www.2dcurves.com/higher/higherm.html
+http://davidbau.com/conformal/#iter(z+z'^2,z,12)
+http://mathworld.wolfram.com/MandelbrotSetLemniscate.html
+https://github.com/alexmill/website_notebooks/blob/master/fourier-spinning-circles.ipynb
